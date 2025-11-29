@@ -1,4 +1,3 @@
-#inventario-crud-backend
 
 **Sistema de Inventario – Backend (CRUD en Java)**
 
@@ -53,4 +52,4 @@ Este repositorio refleja **mi aporte individual** dentro del módulo backend CRU
 ---
 
 ##Enlaces Relacionados
-**Repositorio frontend:** 
+**Repositorio frontend:**  https://github.com/Gabypsss/Distrilicores-frontend.git 
